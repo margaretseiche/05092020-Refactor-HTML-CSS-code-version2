@@ -18,6 +18,7 @@ header {
 header h1 {
     display: inline-block;
     font-size: 48px;
+    font-weight:bold;
 }
 
 header h1 .seo {

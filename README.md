@@ -3,9 +3,13 @@ Homework1 - Columbia Coding Bootcamp
 
 # 01 HTML CSS Git: Code Refactor
 
-I was going to reset the assumptions before starting anything else
+I reset the assumptions before starting anything else
     <link rel="stylesheet" href="./assets/css/reset.css"> 
-BUT IT THREW OFF SOME FONT-SIZE IN HEADER/BODY AND PULLED ASIDE BOX DOWN.  SO I TOOK THE RESET OUT AGAIN 
+IT THREW OFF SOME FONT-SIZE IN HEADER/BODY AND PULLED ASIDE BOX DOWN.  
+
+CSS - h1 --- put in bold
+I couldn't figure how to replicate the margin change from reset / not using Chrome default.
+
 
 HTML --- title changed from 'website' to 'Horiseon'
 
